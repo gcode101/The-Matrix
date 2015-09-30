@@ -321,7 +321,7 @@ def separator
       
       "*5
 end
-
+#Making a change
 #Simulates an encounter between you and the agents
 #returns 1 if you win
 # -1 if you lose
